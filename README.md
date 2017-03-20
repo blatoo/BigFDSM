@@ -6,7 +6,7 @@ FDSM is often applied by the recommend system for finding the hidden pattern wit
 
 This code tuned this algorithm with different variation.
 
-`BigFDSM/src/algo/` are the main algorithms, `LevFDSM.java` is the original FDSM, the rest java files are variations of FDSM.
+`BigFDSM/src/algo/` are the main programms, `LevFDSM.java` is the original FDSM, the rest java files are variations of FDSM.
 
 `BigFDSM/src/info/` are the settings
 
