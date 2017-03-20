@@ -8,6 +8,8 @@ This code tuned this algorithm with different variation.
 
 `BigFDSM/src/algo/` are the main algorithms, `LevFDSM.java` is the original FDSM, the rest java files are variations of FDSM.
 
+`BigFDSM/src/info/` are the settings
+
 FDSM Theory: 
 How to Forget the Second Side of the Story: A New Method for the One-Mode Projection of Bipartite Graphs
 http://ieeexplore.ieee.org/document/5562772/
