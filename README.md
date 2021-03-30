@@ -1,6 +1,6 @@
 # Fixed Degree Sequence Model(FDSM) for big data
 
-An Algorithms which calculated the similarity beween items. 
+A set of Algorithms which calculated the similarity beween items. 
 
 FDSM is often applied by the recommend system for finding the hidden pattern with high accuracy. The main problem of this algorithm is high computational effort.
 
